@@ -12,5 +12,11 @@
         document.getElementsByTagName('body')[0].innerHTML = htmlString;
       })()
     </script>
+	
+	<p>Tester</p>
+	<ul>
+		<li>Tester</li>
+	</ul>
+	
   <body>
 </html>
