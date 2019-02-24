@@ -50,14 +50,13 @@ li {
 				
 				htmlString += '</ul>';
 				
-				document.getElementsByClassName('directory-listing')[0].innerHTML += htmlString;
+				document.getElementsByClassName('directory-listing')[0].innerHTML = htmlString;
 				
 			})()
 		</script>
 		
-		<div class="directory-listing">
-			<h1>OpenHW Builds</h1>
-		</div>
+		<h1>OpenHW Builds</h1>
+		<div class="directory-listing"></div>
 		
 	<body>
 </html>
