@@ -8,5 +8,5 @@ A collection of playable builds of [OpenHW](https://github.com/st4rdog/OpenHW).
 
 # Links
 - [OpenHW Repository](https://github.com/st4rdog/OpenHW)
-- [OpenHW-Builds Repository](https://github.com/st4rdog/OpenHW-Builds)
+- [OpenHW-Builds Repository](https://github.com/st4rdog/OpenHW-Builds) (here!)
 - [OpenHW-Builds Website](https://st4rdog.github.io/OpenHW-Builds)
