@@ -1,0 +1,13 @@
+{
+"companyName": "OpenHW",
+"productName": "OpenHW",
+"dataUrl": "2019.2.25.data.unityweb",
+"wasmCodeUrl": "2019.2.25.wasm.code.unityweb",
+"wasmFrameworkUrl": "2019.2.25.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
