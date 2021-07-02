@@ -1,3 +1,6 @@
+- <2021.7.2> v0.1.6
+  - Upgrade to Unity 2020.3.12f1
+  - Font change
 - [2019.3.4](2019.3.4) v0.1.5
   - Frame-rate fix for floating target text.
 - [2019.3.3](2019.3.3) v0.1.4
