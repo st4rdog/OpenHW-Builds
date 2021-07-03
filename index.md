@@ -1,3 +1,6 @@
+- [2021.7.3](2021.7.3) v0.1.7
+  - New flying controls
+  - Floating target text scales with distance
 - [2021.7.2](2021.7.2) v0.1.6
   - Upgrade to Unity 2020.3.12f1
   - Font change
