@@ -1,3 +1,6 @@
+- [2021.7.4](2021.7.4) v0.1.8
+  - New font
+  - Floating target text fading
 - [2021.7.3](2021.7.3) v0.1.7
   - New flying controls
   - Floating target text scales with distance
