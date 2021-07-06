@@ -1,4 +1,4 @@
-- [2021.7.6](2021.7.6) v0.1.7
+- [2021.7.6](2021.7.6) v0.1.9
   - New web template
   - Reduced fog density
   - Changed default resolution
