@@ -1,3 +1,7 @@
+- [2021.7.6](2021.7.6) v0.1.7
+  - New web template
+  - Reduced fog density
+  - Changed default resolution
 - [2021.7.4](2021.7.4) v0.1.8
   - New font
   - Floating target text fading
