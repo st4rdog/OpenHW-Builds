@@ -1,3 +1,6 @@
+- [2021.7.7](2021.7.7) v0.1.10
+  - Added particles to atmosphere
+  - Changed fog/ambient colour
 - [2021.7.6](2021.7.6) v0.1.9
   - New web template
   - Reduced fog density
