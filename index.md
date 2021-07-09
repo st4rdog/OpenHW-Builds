@@ -1,3 +1,10 @@
+- [2021.7.8](2021.7.8) v0.1.11
+  - Added cloud layers
+    - Note: Temporary overdraw performance issues. To fix, open console (apostrophe) and type 'togglefogvolumetric' and 'togglefogceiling' to disable
+  - Added cloud shadows
+  - Added ship visual tests
+  - Added sunshafts
+  - Floating target performance improvements
 - [2021.7.7](2021.7.7) v0.1.10
   - Added particles to atmosphere
   - Changed fog/ambient colour
