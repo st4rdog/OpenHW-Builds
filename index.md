@@ -1,3 +1,6 @@
+- [2021.7.10](2021.7.10) v0.1.12
+  - Added laser firing particle test (spacebar)
+  - Minor scene changes
 - [2021.7.8](2021.7.8) v0.1.11
   - Added cloud layers
     - Note: Temporary overdraw performance issues. To fix, open console (apostrophe) and type 'togglefogvolumetric' and 'togglefogceiling' to disable
