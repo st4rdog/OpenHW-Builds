@@ -1,3 +1,6 @@
+- [2021.7.13](2021.7.13) v0.1.13
+  - Added audio tests
+  - Added lightning tests
 - [2021.7.10](2021.7.10) v0.1.12
   - Added laser firing particle test (spacebar)
   - Minor scene changes
